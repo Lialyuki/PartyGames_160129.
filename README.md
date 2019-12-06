@@ -1,2 +1,2 @@
 # PartyGames_160129.
-Proyect 
+A game made in C#, by Lialy América Velázquez Sánchez
